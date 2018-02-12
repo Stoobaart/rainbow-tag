@@ -26,10 +26,3 @@ This is an Ember addon that can be passed a string that will in turn be changed 
 * `ember build`
 
 For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
-
-## Using this addon
-In the application you wish to use this addon within -
-
-* npm install --save-dev rainbow-tag
- and then use this tag in the templates, passing in whatever string you would like to use
- * <!-- {{rainbow-tag string="Rainbow Time Yaaayyy"}} -->
